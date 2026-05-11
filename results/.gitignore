@@ -1,0 +1,7 @@
+# Ignore all files and folders in this results directory
+*
+
+# Keep this .gitignore so the folder stays in the repo
+!.gitignore
+
+# Note: already tracked files are not affected by this .gitignore
