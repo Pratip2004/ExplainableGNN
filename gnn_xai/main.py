@@ -17,7 +17,6 @@ Pipeline
   4. Evaluate predictive performance
   5. Generate explanations
        • X-Node     : built-in, zero extra cost
-       • GNNExplainer, PGExplainer, PGM-Explainer, SubgraphX : post-hoc
   6. Compute XAI metrics (Fidelity+/-, Sparsity, AUC-ROC, Precision@K)
   7. Save plots, JSON results, Markdown report
 
